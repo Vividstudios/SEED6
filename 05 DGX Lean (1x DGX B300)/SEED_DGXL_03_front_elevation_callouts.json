@@ -1,0 +1,66 @@
+{
+ "title": "Lean  -  1x NVIDIA DGX B300",
+ "sub": "42U, 800 x 1200 mm, room CRAH + chimney containment, design 25 kW",
+ "points": [
+  {
+   "x": 1920.6289672851562,
+   "y": 514.1699409484863,
+   "label": "Chimney duct to ceiling return"
+  },
+  {
+   "x": 1920.6607818603516,
+   "y": 833.9338874816895,
+   "label": "Patch panel (U42)"
+  },
+  {
+   "x": 1920.6607818603516,
+   "y": 858.6925220489502,
+   "label": "OOB 1G switch (U41)"
+  },
+  {
+   "x": 1920.6607818603516,
+   "y": 883.4456205368042,
+   "label": "Serial console (U40)"
+  },
+  {
+   "x": 1920.6603240966797,
+   "y": 969.9617958068848,
+   "label": "Reserved: front-end switch B (U36-37)"
+  },
+  {
+   "x": 1920.6603240966797,
+   "y": 1019.4915533065796,
+   "label": "Front-end 400G switch, ports to cold aisle (U34-35)"
+  },
+  {
+   "x": 1920.6605529785156,
+   "y": 1056.7695808410645,
+   "label": "Mgmt R670: k3s, monitoring, bastion (U33)"
+  },
+  {
+   "x": 1920.6605529785156,
+   "y": 1093.8546180725098,
+   "label": "Storage + registry R770, NFS ~250-290 TB (U31-32)"
+  },
+  {
+   "x": 1920.6596374511719,
+   "y": 1167.581226825714,
+   "label": "Reserved: storage / mgmt (U27-30)"
+  },
+  {
+   "x": 1920.659408569336,
+   "y": 1241.5997672080994,
+   "label": "Reserved: IB switch (U25-26)"
+  },
+  {
+   "x": 1920.6591796875,
+   "y": 1389.4919443130493,
+   "label": "Reserved: DGX B300 node 2 (U15-24)"
+  },
+  {
+   "x": 1920.6591796875,
+   "y": 1686.1483919620514,
+   "label": "DGX B300 (U03-12): front I/O, 8x CX-8 800G capped, 12 front PSUs"
+  }
+ ]
+}

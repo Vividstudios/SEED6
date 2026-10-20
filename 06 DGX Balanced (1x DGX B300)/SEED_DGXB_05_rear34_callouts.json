@@ -1,0 +1,36 @@
+{
+ "title": "Balanced  -  1x NVIDIA DGX B300",
+ "sub": "48U, 800 x 1200 mm, active rear-door heat exchanger >=35 kW, design 32 kW",
+ "points": [
+  {
+   "x": 1799.146499633789,
+   "y": 1071.9614839553833,
+   "label": "PDU A1 (feed A)"
+  },
+  {
+   "x": 1771.3763809204102,
+   "y": 1075.308108329773,
+   "label": "PDU B1 (feed B)"
+  },
+  {
+   "x": 1916.7622375488281,
+   "y": 1385.9846448898315,
+   "label": "12 NVIDIA locking cords"
+  },
+  {
+   "x": 1862.1066284179688,
+   "y": 899.180703163147,
+   "label": "Storage appliance rear"
+  },
+  {
+   "x": 1861.0651016235352,
+   "y": 1440.5578351020813,
+   "label": "DGX rear: fans + power inlets"
+  },
+  {
+   "x": 2495.4407501220703,
+   "y": 1108.5848379135132,
+   "label": "Active RDHx >=35 kW, N+1 fans (open)"
+  }
+ ]
+}

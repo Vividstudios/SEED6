@@ -1,0 +1,31 @@
+{
+ "title": "Lean  -  1x NVIDIA DGX B300",
+ "sub": "42U, 800 x 1200 mm, room CRAH + chimney containment, design 25 kW",
+ "points": [
+  {
+   "x": 1889.4154357910156,
+   "y": 1333.3094930648804,
+   "label": "PDU A1 (feed A): 6 dedicated GPU banks"
+  },
+  {
+   "x": 1865.4207229614258,
+   "y": 1337.2506666183472,
+   "label": "PDU B1 (feed B)"
+  },
+  {
+   "x": 1991.0078430175781,
+   "y": 1563.205361366272,
+   "label": "12 NVIDIA locking C19/C20 cords, one per bank"
+  },
+  {
+   "x": 1939.1104888916016,
+   "y": 1579.2238783836365,
+   "label": "DGX rear: fan wall + 12 power inlets"
+  },
+  {
+   "x": 2159.5770263671875,
+   "y": 1740.4345750808716,
+   "label": "Rack earth bond"
+  }
+ ]
+}

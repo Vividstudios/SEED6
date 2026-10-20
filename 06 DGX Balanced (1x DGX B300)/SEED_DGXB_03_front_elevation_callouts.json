@@ -1,0 +1,61 @@
+{
+ "title": "Balanced  -  1x NVIDIA DGX B300",
+ "sub": "48U, 800 x 1200 mm, active rear-door heat exchanger >=35 kW, design 32 kW",
+ "points": [
+  {
+   "x": 1920.8141326904297,
+   "y": 339.63499546051025,
+   "label": "Patch panel (U48)"
+  },
+  {
+   "x": 1920.8139038085938,
+   "y": 370.19750118255615,
+   "label": "OOB 1G switch (U47)"
+  },
+  {
+   "x": 1920.8139038085938,
+   "y": 400.7517671585083,
+   "label": "IP KVM (U46)"
+  },
+  {
+   "x": 1920.8134460449219,
+   "y": 507.6274538040161,
+   "label": "Front-end switch A (U42-43)"
+  },
+  {
+   "x": 1920.813217163086,
+   "y": 568.6541032791138,
+   "label": "Front-end switch B, MLAG (U40-41)"
+  },
+  {
+   "x": 1920.8136749267578,
+   "y": 644.8381519317627,
+   "label": "k8s control plane 3x R670 (U37-39)"
+  },
+  {
+   "x": 1920.813217163086,
+   "y": 721.0803937911987,
+   "label": "Registry / mirror R770 (U35-36)"
+  },
+  {
+   "x": 1920.812759399414,
+   "y": 873.4114122390747,
+   "label": "250 TB all-flash HA appliance (U27-34)"
+  },
+  {
+   "x": 1920.8113861083984,
+   "y": 1025.1956462860107,
+   "label": "Reserved: IB switch (U25-26)"
+  },
+  {
+   "x": 1920.8106994628906,
+   "y": 1207.2766542434692,
+   "label": "Reserved: DGX B300 node 2 (U15-24)"
+  },
+  {
+   "x": 1920.8109283447266,
+   "y": 1572.1364736557007,
+   "label": "DGX B300 (U03-12): 4x BlueField-3 400G ports cabled to both switches"
+  }
+ ]
+}

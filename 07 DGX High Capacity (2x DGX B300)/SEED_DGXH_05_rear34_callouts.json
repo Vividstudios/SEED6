@@ -1,0 +1,31 @@
+{
+ "title": "High Capacity  -  2x NVIDIA DGX B300",
+ "sub": "52U, 1000 x 1200 mm, active RDHx >=60 kW / >=6,500 CFM, design 60 kW",
+ "points": [
+  {
+   "x": 1772.4049758911133,
+   "y": 1065.8622694015503,
+   "label": "4x 0U PDUs: A1/A2 feed A, B1/B2 feed B"
+  },
+  {
+   "x": 1853.6730194091797,
+   "y": 1380.7195115089417,
+   "label": "24 NVIDIA locking C19/C20 cords"
+  },
+  {
+   "x": 1828.9211654663086,
+   "y": 1127.6870799064636,
+   "label": "Node B rear: fan wall + 12 inlets"
+  },
+  {
+   "x": 1829.9697875976562,
+   "y": 1399.699251651764,
+   "label": "Node A rear: fan wall + 12 inlets"
+  },
+  {
+   "x": 2521.332550048828,
+   "y": 1108.3077764511108,
+   "label": "Active RDHx >=60 kW, N+1 fans (open)"
+  }
+ ]
+}
